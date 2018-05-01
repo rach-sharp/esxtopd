@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 maya = "*"
 graphitesend = "*"
+flask = "*"
+pyvmomi = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
